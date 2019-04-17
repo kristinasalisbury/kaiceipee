@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://igiehoojox.moonshine152.com/sitemap.xml
